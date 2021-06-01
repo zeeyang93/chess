@@ -1,2 +1,2 @@
-# chess-client
-A program to play chess
+# chess
+A program to play chess written with GO
